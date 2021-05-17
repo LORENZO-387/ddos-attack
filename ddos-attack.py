@@ -29,7 +29,7 @@ print ("""
         \/       \/       \/        \/         \/        \/        \/       \/        \/         """)
 print "Author   : LORENZO387"
 print "You Tube : https://www.youtube.com/channel/UCFV-_GX6WWmyTCcjJRpA2CA"
-print "github   : https://github.com/LORENZO-387"
+print "github   : https://github.com/LORENZO-387?tab=repositories"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
